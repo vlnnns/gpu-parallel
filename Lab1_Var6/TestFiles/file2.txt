@@ -1,0 +1,5 @@
+Hello from file2
+Multithreading is fun
+Random positions
+Different delays
+End of file2
